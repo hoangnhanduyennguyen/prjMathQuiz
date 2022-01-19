@@ -1,0 +1,38 @@
+<resources>
+    <string name="appName">Calculations</string>
+    <string name="resultActivity">Result</string>
+    <string name="btnZero">0</string>
+    <string name="btnOne">1</string>
+    <string name="btnTwo">2</string>
+    <string name="btnThree">3</string>
+    <string name="btnFour">4</string>
+    <string name="btnFive">5</string>
+    <string name="btnSix">6</string>
+    <string name="btnSeven">7</string>
+    <string name="btnEight">8</string>
+    <string name="btnNine">9</string>
+    <string name="btnPoint">.</string>
+    <string name="btnMinus">-</string>
+    <string name="btnEqual">=</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnGenerate">Generate</string>
+    <string name="btnQuit">Quit</string>
+    <string name="btnShowAll">Show All</string>
+    <string name="btnGoBack">Go Back</string>
+    <string name="msgCorrect">Your Answer is Correct.</string>
+    <string name="msgWrong">Your Answer is Wrong !!</string>
+    <string name="msgAnswer">Correct Answer is : </string>
+    <string name="percentCorrect"> % Correct Answer</string>
+    <string name="percentWrong"> % Wrong Answer</string>
+    <string name="msgError">Can\'t generate the result!</string>
+    <string name="msgEmpty">You didn\'t answer this operation!</string>
+    <string name="msgNotEqual">Generate an operation and click again!</string>
+    <string name="msgDash">----------------------------------------------------</string>
+    <string name="msgQuitTitle">Are you sure to Quit ?</string>
+    <string name="msgQuitMsg">Quit will not save the result!!!</string>
+    <string name="msgQuitNoReturn">Nothing Happened</string>
+    <string name="msgNegativeButton">No</string>
+    <string name="msgPositiveButton">Yes</string>
+    <string name="msgQuitYesReturn">Thank you, goodbye!</string>
+    <string name="msgInvalidNumber">Invalid number, can\'t add a \'-\' sign here!</string>
+</resources>
